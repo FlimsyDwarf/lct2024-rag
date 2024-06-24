@@ -1,7 +1,8 @@
 # Автоматическая генерация аналитических отчётов (ЛЦТ 2024)
 
 
-![website](https://github.com/MisterAndry/lct2024-rag/assets/66780351/cc6e074d-9b6d-4131-8424-52fe85fdf107)
+![image](https://github.com/FlimsyDwarf/lct2024-rag/assets/72410090/b6a204de-78b4-4629-a7bb-a2bc291da807)
+
 
 
 ## Принцип работы
@@ -23,7 +24,8 @@
 
    Пример:
 
-![template_docs](https://github.com/MisterAndry/lct2024-rag/assets/66780351/749eac56-c759-47d3-80bc-6ecf266f7ecf)
+![image](https://github.com/FlimsyDwarf/lct2024-rag/assets/72410090/b2a7644a-19d1-4221-95ae-27fd84d3c615)
+
 
 
 4. **Your data files** (опциональное) - пользовательские файлы в формате (pdf и txt), которые будут добавлены в базу знаний и по которым в том числе будет генерироваться отчёт. Сканы в pdf файлах не будут обрабатываться, только текстовые данные.
@@ -33,7 +35,9 @@
 Для запуска генерации отчёта необходимо заполнить обязательные поля и нажать на конпку **Analyse**.
 Отчёт будет сгенерирован в орфмате docx. После генерации появится кнопка скачать.
 
-<img width="173" alt="image" src="https://github.com/MisterAndry/lct2024-rag/assets/9989672/e8f0f179-3057-456c-9c4b-8b715eebe424">
+![image](https://github.com/FlimsyDwarf/lct2024-rag/assets/72410090/c6ae7e38-e821-49f4-9f87-65ae31141065)
+
+
 
 
 ## Templates
@@ -42,7 +46,8 @@
    1) Шаблон анализа конкурентов
    2) Анализ компании "Газпром"
 
-![template_button](https://github.com/MisterAndry/lct2024-rag/assets/66780351/2723ef62-f0a8-46e5-8494-f08e7629d942)
+![image](https://github.com/FlimsyDwarf/lct2024-rag/assets/72410090/6338d181-4b16-4fd8-94d0-d16af08e68b3)
+
 
 Это примеры файла шаблона для анализа и файла отчета.
 Их можно скачать по нажатию.
