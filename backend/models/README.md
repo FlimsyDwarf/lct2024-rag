@@ -2,15 +2,18 @@
 
 Схема приложения:
 
-<img width="693" alt="CF-RAG copy" src="https://github.com/MisterAndry/lct2024-rag/assets/66780351/81461cd2-805a-468c-9ec9-b418d336424f">
+![image](https://github.com/FlimsyDwarf/lct2024-rag/assets/72410090/598790db-fc53-41f6-8974-a16c38eb52e7)
+
 
 Data search pipeline:
 
-<img width="1336" alt="CF-RAG" src="https://github.com/MisterAndry/lct2024-rag/assets/9989672/b064e550-48a4-4a62-beec-805e051332ad">
+![image](https://github.com/FlimsyDwarf/lct2024-rag/assets/72410090/78031a71-b529-4cdb-b808-1b245d80de01)
+
 
 Пайплайн если поиск только по документам пользователя и по пользовательским ссылкам:
 
-<img width="728" alt="CF-RAG_1" src="https://github.com/MisterAndry/lct2024-rag/assets/9989672/ab13f35e-0160-4a72-bc17-15f74c82ddee">
+![image](https://github.com/FlimsyDwarf/lct2024-rag/assets/72410090/f7e11d2b-5c42-4085-9a31-2b84358ea138)
+
 
 ## Что используем
 1. **LLM Framework**: LangChain
